@@ -1,0 +1,5 @@
+# Sibling repos: your own clones or symlinks to them, not part of this repo
+/vetochka
+/muh-build
+# Builds of the required repos
+/build/
